@@ -1,6 +1,7 @@
 [[pages]]
 path = "home.py"
 name = "Home"
+icon = "🏠"
 
 [[pages]]
 path = "pages/videos.py"
